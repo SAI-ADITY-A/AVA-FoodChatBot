@@ -23,7 +23,8 @@ The Food Ordering Chatbot is a web-based application that enables users to inter
    ```bash
    git clone https://github.com/yourusername/food-ordering-chatbot.git
    cd food-ordering-chatbot
-  ```
+  
+
 2. Create a virtual environment and activate it:
    ```bash
    python -m venv venv
